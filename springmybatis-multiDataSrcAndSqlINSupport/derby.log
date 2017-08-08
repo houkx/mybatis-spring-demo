@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Aug 08 22:10:41 CST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015d-c22e-eaa7-00000340bf18 
+on database directory /home/houkx/data/workspace/springmybatis/testdb2 with class loader sun.misc.Launcher$AppClassLoader@4a574795 
+Loaded from file:/home/houkx/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=/home/houkx/data/workspace/springmybatis
+os.name=Linux
+os.arch=amd64
+os.version=3.16.0-4-amd64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
